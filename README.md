@@ -1,5 +1,6 @@
 # Yamaç's AP CSA Website
 
+This is my AP CSA Website filled with my projects class notes and anything I did related to AP CSA.
 ---
 
 # Projects
