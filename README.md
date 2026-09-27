@@ -15,10 +15,10 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 
 ---
 
-# Rune Stone Academy AP CSA Notes
+# AP CSA Notes from both Runestone Academy and Codehs
 
 | Homework Name | Topic |
 |---------------|-------|
-| R_U1 | [1.1 - 1.14](https://docs.google.com/document/d/1frC4WhYayQN3w2f3WgDeMKnJPuuYL8hBdObmscoHvss/edit?usp=sharing) |
+| Unit 1 Notes | [1.1 - 1.14](https://docs.google.com/document/d/1frC4WhYayQN3w2f3WgDeMKnJPuuYL8hBdObmscoHvss/edit?usp=sharing) |
 
 ---
