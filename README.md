@@ -24,4 +24,14 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 |---------------|-------|
 | Unit 1 Notes | [1.1 - 1.14](https://docs.google.com/document/d/1frC4WhYayQN3w2f3WgDeMKnJPuuYL8hBdObmscoHvss/edit?usp=sharing) |
 
+# Blue J Lessons
+
+|Leson | Documentation |
+|---------------|-------|
+| Lesson 1 | [Code](https://docs.google.com/document/d/1dIouUVNtboooBymqLJInUsFo4FKsBJnesGs82c4pxLA/edit?usp=sharing) |
+| Lesson 2 | [Code](https://docs.google.com/document/d/1u0I-3qffvPQt5iAGut-aYE83ZPNfaYMLsSOOE_uQS-c/edit?usp=sharing) |
+| Lesson 3 | [Code](https://docs.google.com/document/d/1TgEmzeSt3dKW2Yp6-MQDMTK_BdSgbiLfF4MRZvKgwWg/edit?usp=sharing) |
+| Lesson 4 | [Code](https://docs.google.com/document/d/1dz7lsgTJqmCifUiInARJi4Y03P5JXKSeusa9-6mRCLg/edit?usp=sharing) |
+| Lesson 5 | [Code](https://docs.google.com/document/d/1IVzmB-0waJH-HB_IuQgWOLtUJhKv1AWFyktE44Iq9YY/edit?usp=sharing) |
+
 ---
