@@ -24,6 +24,7 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Homework Name | Topic |
 |---------------|-------|
 | Unit 1 Notes | [1.1 - 1.15](https://docs.google.com/document/d/1frC4WhYayQN3w2f3WgDeMKnJPuuYL8hBdObmscoHvss/edit?usp=sharing) |
+| Unit 2 Notes | [2.1 - 2.3](https://docs.google.com/document/d/1zlasVNmEgSp13fSL-dpBhb0LdFKAwoMXqWPVW3jdP34/edit?usp=sharing) |
 
 # Blue J Lessons
 
