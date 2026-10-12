@@ -17,7 +17,9 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Version 2 of Build Instructions Code| [Code](https://codehs.com/sandbox/id/robot-build-tTOfNA) |
 | Project Undo-Redo| [Code](https://docs.google.com/document/d/1paU2Es4MlFdtu6lCX-keM8JFSXNQqMOGnn2tp0FuGAA/edit?usp=sharing) |
 | Project Emergency Room Queue| [Code](https://docs.google.com/document/d/14R_Da6Uhk_4hR9qqDH_1X8Hz0yKHOWWV0naOsTCmdjA/edit?usp=sharing) |
-| Version 1 Lesson Code Project| [Code](https://docs.google.com/document/d/1lSyjXh-OBQkoP4vMhL0EIvkK0P-e5QvMcnaxJodOPJs/edit?usp=sharing) |
+| Version 1 DIGIT DETECTIVE Project| [Code](https://docs.google.com/document/d/1lSyjXh-OBQkoP4vMhL0EIvkK0P-e5QvMcnaxJodOPJs/edit?usp=sharing) |
+| Version 2 DIGIT DETECTIVE Project| [Code](https://codehs.com/sandbox/id/csapojeortanc-MirpnI) |
+
 ---
 
 # AP CSA Notes from both Runestone Academy and Codehs
