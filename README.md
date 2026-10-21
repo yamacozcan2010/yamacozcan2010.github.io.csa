@@ -29,7 +29,7 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Unit 1 Notes | [1.1 - 1.15](https://docs.google.com/document/d/1frC4WhYayQN3w2f3WgDeMKnJPuuYL8hBdObmscoHvss/edit?usp=sharing) |
 | Unit 2 Part 1 | [U2.P1](https://docs.google.com/document/d/1D-CWZ3NlSuT0D0nPB7AAkvqNwByfsxEDpQmeZe5HUo0/edit?usp=sharing) |
 | Unit 2 Part 2 | [U2.P2](https://docs.google.com/document/d/1yoMy59Em39sxhng01XF4eFynIZQVcmHShVywsnTZ3fw/edit?usp=sharing) |
-
+| Unit 2 Part 3 | [U2.P3](https://docs.google.com/document/d/1mmy1VZTKL5VXDclyqQY-BGXYlbTi6nYqukNYBJUdCLE/edit?usp=sharing ) |
 # Blue J Lessons
 
 |Leson | Documentation |
