@@ -20,6 +20,7 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Version 1 DIGIT DETECTIVE Project| [Code](https://docs.google.com/document/d/1lSyjXh-OBQkoP4vMhL0EIvkK0P-e5QvMcnaxJodOPJs/edit?usp=sharing) |
 | Version 2 DIGIT DETECTIVE Project| [Code](https://codehs.com/sandbox/id/csapojeortanc-MirpnI) |
 | Unit 1 + Unit 2 Lesson Project| [Code](https://codehs.com/sandbox/id/ders-1CTzST) |
+| Namestring While Project| [Code](https://codehs.com/sandbox/id/isim-QtzAWm ) |
 
 ---
 
