@@ -22,7 +22,8 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Unit 1 + Unit 2 Lesson Project| [Code](https://codehs.com/sandbox/id/ders-1CTzST) |
 | Namestring While Project| [Code](https://codehs.com/sandbox/id/isim-QtzAWm ) |
 | Diamond Maker Project (While loops)| [Code](https://codehs.com/sandbox/id/half-diamond-2yCdsi) |
-
+| Diamond Maker Project (For loops)| [Code](https://codehs.com/sandbox/id/diamond-using-for-loops-tjLM3r) |
+| While and For loop Test| [Code](https://codehs.com/sandbox/id/while-tester-code-v65DQ9) |
 
 ---
 
