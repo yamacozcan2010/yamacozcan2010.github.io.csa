@@ -39,6 +39,7 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Unit 2 Part 3 | [U2.P3](https://docs.google.com/document/d/1mmy1VZTKL5VXDclyqQY-BGXYlbTi6nYqukNYBJUdCLE/edit?usp=sharing ) |
 | Unit 2 Part 4 | [U2.P4](https://docs.google.com/document/d/1iGHLW1V_WJ50Zb9Czk3hgL9_dB1f52XnwLvOZzmg0NY/edit?usp=sharing) |
 | Unit 2 Part 5 | [U2.P5](https://docs.google.com/document/d/189j5Cj2x00GmIQK27fnPxjVud03fKTZeQgv-fS5QDpE/edit?usp=sharing) |
+| Unit 2 Part 6 | [U2.P6](https://docs.google.com/document/d/1XXAvgPkayWJUpaakZJy0L9nlvXt1x_pbicgtm2QAAts/edit?usp=sharing) |
 
 # Blue J Lessons
 
