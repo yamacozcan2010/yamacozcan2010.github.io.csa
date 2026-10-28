@@ -24,7 +24,7 @@ This is my AP CSA Website filled with my projects class notes and anything I did
 | Diamond Maker Project (While loops)| [Code](https://codehs.com/sandbox/id/half-diamond-2yCdsi) |
 | Diamond Maker Project (For loops)| [Code](https://codehs.com/sandbox/id/diamond-using-for-loops-tjLM3r) |
 | While and For loop Test| [Code](https://codehs.com/sandbox/id/while-tester-code-v65DQ9) |
-
+| Lazy Susan Coding Project| [Code](https://codehs.com/sandbox/id/lazy-susan-project-3Tkv8d) |
 
 
 ---
